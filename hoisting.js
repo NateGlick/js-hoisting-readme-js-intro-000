@@ -9,7 +9,8 @@ function callMe() {
 callMe();
 
 
-var crazy = function {
+var crazy = function(){
+  
   
 }
   
