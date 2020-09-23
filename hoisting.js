@@ -10,7 +10,7 @@ callMe();
 
 
 function crazy() {
-  console.log("maybe")
+  
 }
   
 
