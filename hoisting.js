@@ -8,7 +8,7 @@ function callMe() {
 }
 
 
-var crazy = function(){
+function crazy(){
   }
   
 
